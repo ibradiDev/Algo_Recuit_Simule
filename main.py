@@ -28,7 +28,7 @@ if __name__ == "__main__":
                 "\n******************************************************************************"
             )
             print(
-                f"\t       Solution optimale trouvée: s = {s}  ==>  Conflits = {conflits(s)}"
+                f"\t     Solution optimale trouvée:  s = {s}  ==>  Conflits = {conflits(s)}"
             )
             print(f"\t        Température du système:  {T}")
             print(f"\tNombre d'itérations effectuées:  {nbre_iteration}")
